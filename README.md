@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mahraloo
-- 👀 I’m interested in Java And Android
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+The above prime number is a number with each sub-number to the left of it being prime.
+For example, 7331 is the prime. 
+Because the numbers 7, 73, 733 and 7331 are prime. 
+The first number above is the number 2.
 
-<!---
-mahraloo/mahraloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For example we find 5th prime number with this feature:
+Output is 23 .
+---> 2-3-5-7-23
+because 2 is prime and 23 is prime.
